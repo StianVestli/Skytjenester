@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("\ntrykk en tast for å avslutte");
+            Console.WriteLine("Hellu væla!");
+            Console.WriteLine("\nTrykk en tast for å avslutte");
             Console.ReadKey(true);
         }
     }

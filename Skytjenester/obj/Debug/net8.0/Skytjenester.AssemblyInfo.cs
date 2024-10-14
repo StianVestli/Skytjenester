@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Skytjenester")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+774608276d30bb039c0e5b29918216d876bc0589")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a4fb31f0340a1a5891abf24951a854a7604774")]
 [assembly: System.Reflection.AssemblyProductAttribute("Skytjenester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Skytjenester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

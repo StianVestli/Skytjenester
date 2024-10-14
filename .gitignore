@@ -1,6 +1,6 @@
 .vscode/launch.json
 .vscode/tasks.json
-Skytjenester/bin/**
-Skytjenester/obj/**
-Skytjenester/Properties/**
-
+Skytjenester/bin/*
+Skytjenester/obj/*
+Skytjenester/Properties/*
+Skytjenester/obj/Debug/*
