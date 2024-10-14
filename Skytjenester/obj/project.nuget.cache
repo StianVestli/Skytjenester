@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JSJkDsWldHY=",
+  "dgSpecHash": "jhn6Ff+mmaI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vti\\OneDrive - Statistisk sentralbyrå\\Dokumenter\\Skyutviklerkurs\\Skytjenester, mikrotjenester, containers\\GitHubActions\\Skytjenester\\Skytjenester\\Skytjenester.csproj",
+  "projectFilePath": "C:\\Users\\vti\\OneDrive - Statistisk sentralbyrå\\Dokumenter\\Skyutviklerkurs\\Skytjenester, mikrotjenester, containers\\GitHubActions\\Skytjenester\\skytjenester\\Skytjenester.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
